@@ -7,8 +7,8 @@ This project was created using [CRA-Redux Templated](https://github.com/reduxjs/
 
 In the project directory, you can run:
 
-### `npm install`
-### `npm start`
+`npm install`
+`npm start`
 
 ## Learn More
 
