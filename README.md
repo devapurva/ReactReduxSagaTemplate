@@ -1,2 +1,2 @@
-# ReactReduxTemplate
-Folder Structure for React Redux Application
+# ReactReduxSagaTemplate
+Folder Structure for React Redux Saga Application
